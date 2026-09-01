@@ -164,7 +164,6 @@ A running log of things I'm learning to build strong software engineering skills
 ||[Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)|4h|✅|
 ||[Conda Essentials](https://www.datacamp.com/courses/conda-essentials)|2h|✅|
 ||[Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)|4h|✅|
-||[Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)|4h|⬜|
 |Youtube|[Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)|2h24m|✅|
 |Article|[Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)||⬜|
 ||[A Programmer’s Introduction to Unicode](https://www.reedbeta.com/blog/programmers-intro-to-unicode/)||✅|
@@ -180,6 +179,7 @@ A running log of things I'm learning to build strong software engineering skills
 ||[How Anthropic Built Claude Code (w/ Boris Cherny)](https://www.youtube.com/watch?v=PQU9o_5rHC4)|50m|✅|
 |Docs|[VSCode Docs: Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)||✅|
 |Article|[A Guide to Claude Code 2.0 and getting better at using coding agents](https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/)||✅|
+||[Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)||✅|
 
 
 ## Specialized Skills
@@ -220,7 +220,7 @@ A running log of things I'm learning to build strong software engineering skills
 ||[The Hundred-Page Language Models Book](https://thelmbook.com/)|100 pgs|✅|
 ||[Super Study Guide: Transformers & Large Language Models](https://www.amazon.com/Super-Study-Guide-Transformers-Language/dp/B0DC4NYLTN)|350 pgs|✅|
 ||[The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#training-compass-why--what--how)||⬜|
-|Courses|[Stanford CS336: Language Modeling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)|5/18|⏳|
+|Courses|[Stanford CS336: Language Modeling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)|18/18|✅|
 |DeepLearning.AI|[Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|1h29m|✅|
 ||[Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|1h32m|✅|
 ||[How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)|1h44m|✅|
@@ -421,7 +421,6 @@ A running log of things I'm learning to build strong software engineering skills
 |Format|Resource|Length|Progress|
 |---|---|---|---|
 |Book|[AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|400 pgs|✅|
-||[Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|325 pgs|⬜|
 |Course|[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)||✅|
 |DeepLearning.AI|[Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|1h55m|✅|
 ||[Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)|59m|✅|
@@ -649,6 +648,7 @@ A running log of things I'm learning to build strong software engineering skills
 ||[Are CNNs invariant to translation, rotation, and scaling?](https://pyimagesearch.com/2021/05/14/are-cnns-invariant-to-translation-rotation-and-scaling/)||✅|
 ||[How to Control the Stability of Training Neural Networks With the Batch Size](https://machinelearningmastery.com/how-to-control-the-speed-and-stability-of-training-neural-networks-with-gradient-descent-batch-size/)||✅|
 ||[A Visual Guide to Learning Rate Schedulers in PyTorch](https://www.leoniemonigatti.com/blog/pytorch-learning-rate-schedulers.html)||✅|
+||[CS231N Notes on Optimization](https://cs231n.github.io/optimization-2/)||✅|
 
 
 ## Technical Skills (Libraries/Frameworks/Tools)
@@ -752,7 +752,7 @@ A running log of things I'm learning to build strong software engineering skills
 |---|---|---|---|
 |Course|[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|20/20|✅|
 |Datacamp|[Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|4h|✅|
-||[Intermediate Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/intermediate-deep-learning-with-pytorch)|4h|⬜|
+||[Intermediate Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/intermediate-deep-learning-with-pytorch)|4h|✅|
 ||[Deep Learning for Text with PyTorch](https://www.datacamp.com/courses/deep-learning-for-text-with-pytorch)|4h|⬜|
 ||[Deep Learning for Images with PyTorch](https://www.datacamp.com/courses/deep-learning-for-images-with-pytorch)|4h|⬜|
 |Article|[PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)||⬜|
@@ -782,6 +782,5 @@ A running log of things I'm learning to build strong software engineering skills
 ||[Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)|4h|✅|
 ||[Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)|4h|✅|
 ||[Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|4h|✅|
-
 
 
